@@ -1,0 +1,25 @@
+nav.navbar {
+  margin-bottom: 0;
+  justify-content: flex-start;
+  background-color: rgb(9, 128, 255);
+  font-size: 3rem;
+
+}
+.navbar-brand{
+font-size: 3rem;
+margin: 20px;
+color: aliceblue;
+
+}
+.navbar-brand:hover {
+color: aliceblue;
+}
+.link-item {
+  color: aliceblue;
+  margin: 20px;
+  text-decoration: none;
+}
+.link-item:hover {
+  color: aqua;
+  text-decoration: none;
+}
